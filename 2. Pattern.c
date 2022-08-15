@@ -1,4 +1,4 @@
-//Right Triangle Star Pattern
+//Right Triangle Star Pattern//
 
 #include <stdio.h>
 
