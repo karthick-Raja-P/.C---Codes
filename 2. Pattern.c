@@ -1,3 +1,5 @@
+//Right Triangle Star Pattern
+
 #include <stdio.h>
 
 void main()
