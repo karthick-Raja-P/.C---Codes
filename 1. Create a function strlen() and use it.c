@@ -1,3 +1,5 @@
+//Create a function strlen() and use it//
+
 #include <stdio.h>
 #include <string.h>
 
